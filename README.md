@@ -1,7 +1,5 @@
 # Diabetes-Prediction-System
 
-Diabetes Risk Prediction
-
 This project develops a model to classify individuals as diabetic or non-diabetic based on key health indicators like age, BMI, glucose levels, and lifestyle factors.
 
 ## Objectives:
